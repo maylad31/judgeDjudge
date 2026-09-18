@@ -4,7 +4,7 @@ A lightweight tool to judge a judge.
 
 ## Why?
 
-LLM judges are used to rank responses, but how reliable are they? This evaluator checks:
+LLM as judges are used to rank responses, but how reliable are they? This evaluator checks:
 - **Consistency**: Does it pick the *ideal* response when it's Response 1?
 - **Position bias**: Does it pick the *ideal* response when it's Response 2?
 - **Verbosity**: Does it stay consistent when responses are rephrased?
