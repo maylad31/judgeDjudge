@@ -91,8 +91,6 @@ class Judge:
                 results = []  # Collect all results for output file
                 row_index = 0
                 for row in reader:
-                    if row_index > 0:
-                        break
                     row_index += 1
                     task = row["task"]
                     rubrics = row["rubrics"]
