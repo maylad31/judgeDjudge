@@ -23,7 +23,7 @@ _collection":"deny"}}'`
 
 ![Screenshot](demo.png)
 
-**Please star this repo. I might add more metrics.**
+**f you find this useful, consider starring the repo. I might add more metrics.**
 
 **Connect with me on linkedin if you have a project i can help with.I am a freelancer trying to solve gen ai related issues.**
 https://www.linkedin.com/in/mayankladdha31/
